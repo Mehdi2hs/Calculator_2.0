@@ -20,7 +20,7 @@ public class Main {
                 break;
             case 5:
                 ThreeNumberOp threeNumberOp = new ThreeNumberOp();
-                threeNumberOp.compute(inputTokens[0], inputTokens[1] ,inputTokens[2],inputTokens[3] ,inputTokens[4]);
+                threeNumberOp.compute(inputTokens[0], inputTokens[1], inputTokens[2], inputTokens[3], inputTokens[4]);
                 break;
             default:
                 Xceptions wrongString = new Xceptions();
